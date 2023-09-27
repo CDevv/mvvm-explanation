@@ -2,7 +2,7 @@
 MVVM има три компонента: Model, View и ViewModel.
 Всеки един от тях има специално предназначение
 
-![Pattern](..\diagram.png)
+![Pattern](https://raw.githubusercontent.com/CDevv/mvvm-explanation/main/diagram.png?token=GHSAT0AAAAAACH5XDK7YQG6OWZ343CY2E6WZIT2MTA)
 
 ## View
 View-то е това, което потребителят вижда на екрана.
